@@ -1,0 +1,290 @@
+Tappsflyer
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.pth ComOpenamplifyAppsflyer_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a" normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000518FA0490000000000000110
+t1368367177
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005117D10F00000000003DDFA0
+t1360515343
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005117D10F00000000000015F7
+t1360515343
+s5623
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/AppsFlyer.h
+c00000000518FEE16000000000000020F
+t1368387094
+s527
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.h
+c0000000051B89A6400000000000000FD
+t1371052644
+s253
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m
+c0000000051B8B5920000000000000927
+t1371059602
+s2343
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.h
+c0000000051B89A6400000000000000DC
+t1371052644
+s220
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m
+c0000000051B89A64000000000000026A
+t1371052644
+s618
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/ComOpenamplifyAppsflyer_Prefix.pch
+c0000000051B89A64000000000000003E
+t1371052644
+s62
+i<Foundation/Foundation.h>
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a
+t1371059632
+s155720
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyer.LinkFileList
+c0000000051B89C73000000000000015E
+t1371053171
+s350
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.o
+t1371059632
+s16432
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.o
+t1371053174
+s5112
+
+N/Users/mike/Documents/Titanium Studio Workspace/appsflyer/libAppsFlyerLib.a
+c00000000518FE07E00000000000653FC
+t1368383614
+s414716
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/Bridge.h
+c0000000051880EF70000000000000268
+t1367871223
+s616
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/KrollCallback.h
+c0000000051880F010000000000000AA8
+t1367871233
+s2728
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/KrollContext.h
+c0000000051880EB000000000000013B2
+t1367871152
+s5042
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/KrollObject.h
+c0000000051880F160000000000000D7F
+t1367871254
+s3455
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiBase.h
+c0000000051880F0300000000000049EE
+t1367871235
+s18926
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiBindingRunLoop.h
+c0000000051880F05000000000000022D
+t1367871237
+s557
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiBlob.h
+c0000000051880F120000000000000B0A
+t1367871250
+s2826
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiBuffer.h
+c0000000051880F1300000000000005EF
+t1367871251
+s1519
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiColor.h
+c0000000051880EF80000000000000496
+t1367871224
+s1174
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/Ti.h
+c0000000051880F040000000000000721
+t1367871236
+s1825
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiBase.h
+c0000000051880EBF00000000000019E1
+t1367871167
+s6625
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiContextRef.h
+c0000000051880ECB00000000000014DD
+t1367871179
+s5341
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000051880EE90000000000000990
+t1367871209
+s2448
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiCore.h
+c0000000051880F1800000000000006A0
+t1367871256
+s1696
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiObjectRef.h
+c0000000051880EC30000000000009462
+t1367871171
+s37986
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiStringRef.h
+c0000000051880F1A00000000000016E7
+t1367871258
+s5863
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiStringRefCF.h
+c0000000051880EFE0000000000000A40
+t1367871230
+s2624
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/TiValueRef.h
+c0000000051880EDF000000000000323B
+t1367871199
+s12859
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore/WebKitAvailability.h
+c0000000051880EDF00000000000080D1
+t1367871199
+s32977
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiDimension.h
+c0000000051880EDB0000000000001E5F
+t1367871195
+s7775
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiEvaluator.h
+c0000000051880EAF00000000000004D5
+t1367871151
+s1237
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiFile.h
+c0000000051880EBE0000000000000680
+t1367871166
+s1664
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiHost.h
+c0000000051880ECC0000000000000532
+t1367871180
+s1330
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiModule.h
+c0000000051880ED40000000000000736
+t1367871188
+s1846
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiProxy.h
+c0000000051880ECD0000000000002AAA
+t1367871181
+s10922
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiPublicAPI.h
+c0000000051880EF30000000000000A67
+t1367871219
+s2663
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiStylesheet.h
+c0000000051880EFD00000000000002CB
+t1367871229
+s715
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiThreading.h
+c0000000051880F2200000000000008EF
+t1367871266
+s2287
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiUtils.h
+c0000000051880ED90000000000004C66
+t1367871193
+s19558
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/WebFont.h
+c0000000051880EB300000000000008BA
+t1367871155
+s2234
+
+N/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/defines.h
+c0000000051880EEF0000000000000A6D
+t1367871215
+s2669
+
+N/var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.pth
+t1371053174
+s2835308
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies630c5caaed68b741^edd46caaed68b741^---0#1#0#--18"Check dependencies36"1BD82F8C-6FBC-41CA-BAD2-9C3DB37BA646-
+
+CCompileC build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392752429.610806
+e392752432.591580
+r1
+xCompileC
+xbuild/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.o
+x/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m679a9c2ded68b741^48709730ed68b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/mike/Documents/Titanium%20Studio%20Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m0000000000000000^3903"CompileC build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.o Classes/ComOpenamplifyAppsflyerModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mike/Documents/Titanium Studio Workspace/appsflyer"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-generated-files.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-own-target-headers.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-all-target-headers.hmap" -iquote "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-project-headers.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/include" "-I/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include" "-I/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/DerivedSources/i386" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/DerivedSources" "-F/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator" -DTI_POST_1_2 -include /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch -MMD -MT dependencies -MF "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.d" --serialize-diagnostics "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.dia" -c "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModule.m" -o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModule.o"36"F3872FFF-7FD8-475E-868B-E34CEA478D2D-
+
+CCompileC build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392745974.686176
+e392745974.796600
+r1
+xCompileC
+xbuild/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.o
+x/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m4ad0aff6d368b741^0fedcbf6d368b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/mike/Documents/Titanium%20Studio%20Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m0000000000000000^3939"CompileC build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.o Classes/ComOpenamplifyAppsflyerModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mike/Documents/Titanium Studio Workspace/appsflyer"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-generated-files.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-own-target-headers.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-all-target-headers.hmap" -iquote "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-project-headers.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/include" "-I/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include" "-I/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/DerivedSources/i386" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/DerivedSources" "-F/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator" -DTI_POST_1_2 -include /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch -MMD -MT dependencies -MF "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.d" --serialize-diagnostics "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.dia" -c "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/Classes/ComOpenamplifyAppsflyerModuleAssets.m" -o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyerModuleAssets.o"36"C1C623C0-6732-4227-81D9-DA9781F65FE2-
+
+CLibtool "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a" normal i386
+s392752432.598442
+e392752432.685963
+r1
+xLibtool
+x/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Libtool build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a normal i386b9509930ed68b741^289aaf30ed68b741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1157"Libtool build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a normal i386    cd "/Users/mike/Documents/Titanium Studio Workspace/appsflyer"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator" "-L/Users/mike/Documents/Titanium Studio Workspace/appsflyer" -filelist "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/Objects-normal/i386/ComOpenamplifyAppsflyer.LinkFileList" -ObjC -framework Foundation -lAppsFlyerLib -o "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/libComOpenamplifyAppsflyer.a"36"17A81B29-6410-4F8E-8D56-58ED85BA5B97-
+
+CProcessPCH /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.pth ComOpenamplifyAppsflyer_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392745971.606858
+e392745974.679016
+r1
+xProcessPCH
+x/var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.pth
+xComOpenamplifyAppsflyer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ComOpenamplifyAppsflyer_Prefix.pch11909bf3d368b741^0fd4adf6d368b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/mike/Documents/Titanium%20Studio%20Workspace/appsflyer/ComOpenamplifyAppsflyer_Prefix.pch0000000000000000^3836"ProcessPCH /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.pth ComOpenamplifyAppsflyer_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mike/Documents/Titanium Studio Workspace/appsflyer"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-generated-files.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-own-target-headers.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-all-target-headers.hmap" -iquote "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/ComOpenamplifyAppsflyer-project-headers.hmap" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator/include" "-I/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include" "-I/Users/mike/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone/include/TiCore" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/DerivedSources/i386" "-I/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/appsflyer.build/Release-iphonesimulator/appsflyer.build/DerivedSources" "-F/Users/mike/Documents/Titanium Studio Workspace/appsflyer/build/Release-iphonesimulator" -DTI_POST_1_2 --serialize-diagnostics /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.dia -c "/Users/mike/Documents/Titanium Studio Workspace/appsflyer/ComOpenamplifyAppsflyer_Prefix.pch" -o /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/7h/dfj1bjzd11v382z50p3q287c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComOpenamplifyAppsflyer_Prefix-ebdhpdtyzhkenqcygoubthpjnbkf/ComOpenamplifyAppsflyer_Prefix.pch.d36"B4F796D6-F4B7-4E96-BEC4-026A426026E6-
+
